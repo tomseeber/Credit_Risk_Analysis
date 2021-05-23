@@ -329,4 +329,3 @@ dependencies:
   - zope.event=4.5.0=py37_0
   - zope.interface=5.3.0=py37h2bbff1b_0
   - zstd=1.4.5=h04227a9_0
-prefix: C:\Users\thoma\.conda\envs\mlenv
